@@ -1,0 +1,8 @@
+interface:
+  display_name: "Bridge"
+  short_description: "Understand and regain control of AI-built projects"
+  default_prompt: "Use $bridge to understand this AI-built project, compare its creation process with its current implementation, and identify where I can safely continue."
+
+policy:
+  allow_implicit_invocation: false
+
